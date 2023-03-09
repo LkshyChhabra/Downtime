@@ -1,7 +1,7 @@
 
 # Downtime :- Its your time to relax
 
-It is an cross platform application built on Flutter and Firebase that offers a one-stop solution for all your home care and appliance maintenance needs. Users can hire professionals for cleaning, pest control, carpentry, plumbing, electrical repairs and more. The app also provides employment opportunities for people from low-income backgrounds, contributing to social impact. With a user-friendly interface and reliable backend, it simplifies the process of finding and hiring skilled professionals.
+It is a cross platform application built on Flutter and Firebase that offers a one-stop solution for all your home care and appliance maintenance needs. Users can hire professionals for cleaning, pest control, carpentry, plumbing, electrical repairs and more. The app also provides employment opportunities for people from low-income backgrounds, contributing to social impact. With a user-friendly interface and reliable backend, it simplifies the process of finding and hiring skilled professionals.
 
 
 ## Methodology
